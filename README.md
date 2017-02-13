@@ -4,15 +4,11 @@
 # course material
 resource from udacity self_driving course
 
-https://github.com/diyjac/SDC-P1
-
-https://github.com/diyjac/SDC-P2
-
-https://github.com/diyjac/SDC-P3
-
-https://github.com/diyjac/SDC-P4
-
-https://github.com/diyjac/SDC-P5
+[course 1](https://github.com/diyjac/SDC-P1)
+[course 2](https://github.com/diyjac/SDC-P2)
+[course 3](https://github.com/diyjac/SDC-P3)
+[course 4](https://github.com/diyjac/SDC-P4)
+[course 5](https://github.com/diyjac/SDC-P5)
 
 
 # project
@@ -23,3 +19,9 @@ https://github.com/diyjac/Udacity-SDC-Radar-Driver-Micro-Challenge
 
 train a smart cab to drive
 https://github.com/diyjac/smartcab
+
+# bittiger CS701 Self-Driving Computer Vision
+course project 
+[lane find](https://github.com/andrewraharjo/SDCND-LaneLines)
+[SDCND_Behavioral_Cloning](https://github.com/andrewraharjo/SDCND_Behavioral_Cloning)
+
